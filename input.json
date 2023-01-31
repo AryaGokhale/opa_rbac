@@ -1,0 +1,9 @@
+{
+    "input": {
+        "user": "eve",
+        "action": "whitelist",
+        "app_name": "Wondershare Web Engine",
+        "protocol": "NET_FW_IP_PROTOCOL_TCP",
+        "port_name": "WWW"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "user_roles": {
+        "alice": ["admin"],
+        "bob": ["employee"],
+        "eve": ["customer"]
+    },
+    "role_grants": {
+        "customer": 
+        [
+            {
+                "action": "whitelist",
+                "app_name": "Wondershare Web Engine"
+            }
+        ]
+    }
+}
+
